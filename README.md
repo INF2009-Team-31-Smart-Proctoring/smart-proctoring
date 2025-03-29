@@ -6,6 +6,8 @@
 ![Physical Architecture](/docs/physical_arch.png)
 
 ## Links to each GitHub Repository
+Based on the number labeled in the diagram above, please click onto their respective links to view the components more in detail.
+
 1. https://github.com/INF2009-Team-31-Smart-Proctoring/backend-cloud
 2. https://github.com/INF2009-Team-31-Smart-Proctoring/device-fog
 3. https://github.com/INF2009-Team-31-Smart-Proctoring/frontend-web-proctor-cloud
