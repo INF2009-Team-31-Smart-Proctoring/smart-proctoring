@@ -1,9 +1,9 @@
 <!-- ABOUT THE PROJECT -->
 ## Remote Assessment Proctoring using Intelligent Devices with Fog (RAPID FOG) 
 
-## System Architecture
+## Physical Architecture
 
----Insert image here---
+![Physical Architecture](/docs/physical_arch.png)
 
 ## Links to each GitHub Repository
 1. https://github.com/INF2009-Team-31-Smart-Proctoring/backend-cloud
@@ -13,33 +13,19 @@
 5. https://github.com/INF2009-Team-31-Smart-Proctoring/device-edge
 
 ## Miscellaneous
-* https://github.com/INF2009-Team-31-Smart-Proctoring/model-evaluation
+* https://github.com/INF2009-Team-31-Smart-Proctoring/model-evaluation/tree/asr-eval
+* https://github.com/INF2009-Team-31-Smart-Proctoring/model-evaluation/tree/llm-eval
 
-## Project Details
-### Introduction
+## Built with
 
----Insert text here---
+![Built With](/docs/built_with.png)
 
-### Project Overview
+<!-- CONTRIBUTING -->
+## Contributing
 
----Insert text here---
+The Fog Device implementation was contributed by INF2009 Team 31.
 
-### Hardware and Software Components
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
 
----Insert text here---
-
-### Setting up the Edge Devices
-
----Insert text here---
-
-### Description of how Edge Devices work
-
----Insert text here---
-
-### Edge In Action (Demo)
-
----Insert text here---
-
-### Conclusion
-
----Insert text here---
+The development team extends their heartfelt gratitude to our module professor, Dr. Muhamed Fauzi Bin Abbas, for his invaluable mentorship over the past 13 weeks. His unwavering support and insightful feedback have been instrumental in guiding the research and the development of the project.
