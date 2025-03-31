@@ -25,7 +25,7 @@ Based on the number labeled in the diagram above, please click onto their respec
 <!-- CONTRIBUTING -->
 ## Contributing
 
-The Fog Device implementation was contributed by INF2009 Team 31.
+The implementation was contributed by INF2009 Team 31.
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
