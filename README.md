@@ -25,7 +25,7 @@ Based on the number labeled in the diagram above, please click onto their respec
 <!-- CONTRIBUTING -->
 ## Contributing
 
-The implementation was contributed by INF2009 Team 31.
+The entire software development (i.e planning, analysis, design, implementation, testing w/ integration) is done by INF2009 Team 31.
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
