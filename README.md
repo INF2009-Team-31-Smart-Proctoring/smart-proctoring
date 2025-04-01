@@ -8,11 +8,11 @@
 ## Links to each GitHub Repository
 Based on the number labeled in the diagram above, please click onto their respective links to view the components more in detail.
 
-1. https://github.com/INF2009-Team-31-Smart-Proctoring/backend-cloud
+1. https://github.com/INF2009-Team-31-Smart-Proctoring/device-edge
 2. https://github.com/INF2009-Team-31-Smart-Proctoring/device-fog
-3. https://github.com/INF2009-Team-31-Smart-Proctoring/frontend-web-proctor-cloud
+3. https://github.com/INF2009-Team-31-Smart-Proctoring/backend-cloud
 4. https://github.com/INF2009-Team-31-Smart-Proctoring/frontend-desktop-student-calibration
-5. https://github.com/INF2009-Team-31-Smart-Proctoring/device-edge
+5. https://github.com/INF2009-Team-31-Smart-Proctoring/frontend-web-proctor-cloud
 
 ## Miscellaneous
 * https://github.com/INF2009-Team-31-Smart-Proctoring/model-evaluation/tree/asr-eval
